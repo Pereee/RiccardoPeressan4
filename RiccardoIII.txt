@@ -1,3 +1,4 @@
+
 Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
 
 CATESBY
@@ -10,33 +11,48 @@ sfidando ad oltranza ogni avversario.
 
 Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 
-cercando Richmond nella gola della morte.
+e lui, a piedi, seguita a combattere;
 
-Soccorso, nobile signore, o la giornata è persa.
+e nell’ansia di battersi con Richmond
 
-(Escono Norfolk e soldati).
+si caccia nelle fauci della morte.
 
-Allarmi. Entra re Riccardo.
+Soccorretelo, nobile signore,
 
-RE RICCARDO
+o la giornata per noi è perduta. [giusta]
 
-Un cavallo un cavallo! il mio regno per un cavallo!
+(Escono Norfolk e soldati)
 
-CATESBY
+Entra RE RICCARDO
 
-Ritiratevi, monsignore; v’aiuterò io a trovar un cavallo!
+RICCARDO 
+	
 
-RE RICCARDO
+Un cavallo! Un cavallo!
 
-Vigliacco! Ho puntato la mia vita su una giocata,
+Il mio regno per un cavallo!
 
-e accetterò il rischio del dado.
+CATESBY 
+	
 
-Credo che ci siano sei Richmond sul campo:
+Sire,
 
-cinque ne ho uccisi oggi, invece di lui.
+ritiratevi! Cerco io un cavallo
 
-Un cavallo! Un cavallo! Il mio regno per un cavallo!
+per vostra altezza.
 
-[Escono].
+RICCARDO 
+	
+
+Ho messo la mia vita come posta
+
+per un colpo di dadi, e starò al gioco.
+
+Credo ci siano sei Richmond sul campo;
+
+cinque ne ho fatti fuori, quello no!
+
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
 
